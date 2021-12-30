@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+  <subject1>
+    <day>СР</day>
+    <time>10:00-11:30</time>
+    <room>1222 ауд.</room>
+    <place>ул.Ломоносова, д.9, лит. М</place>
+    <lesson>Математика(Лек)</lesson>
+    <teacher>Ершова Юлия Юрьевна</teacher>
+    <lessonformat>Очно-дистанционный</lessonformat>
+  </subject1>
+  <subject2>
+    <day>СР</day>
+    <time>11:40-13:10</time>
+    <room>1222 ауд.</room>
+    <place>ул.Ломоносова, д.9, лит. М</place>
+    <lesson>Математика(Прак)</lesson>
+    <teacher>Книга Екатерина Викторовна</teacher>
+    <lessonformat>Очно-дистанционный</lessonformat>
+  </subject2>
+</timetable>
